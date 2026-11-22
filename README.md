@@ -14,4 +14,16 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0035-search-insert-position) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
