@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
