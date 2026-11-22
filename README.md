@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
