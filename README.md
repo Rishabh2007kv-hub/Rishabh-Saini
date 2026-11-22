@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0704-binary-search) |
 ## Design
 |  |
 | ------- |
