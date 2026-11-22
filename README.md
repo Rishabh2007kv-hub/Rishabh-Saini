@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/1603-design-parking-system) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
