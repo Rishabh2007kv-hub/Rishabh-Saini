@@ -22,6 +22,7 @@
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0075-sort-colors) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Rishabh2007kv-hub/Rishabh-Saini/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
